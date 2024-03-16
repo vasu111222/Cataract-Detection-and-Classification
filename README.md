@@ -10,10 +10,10 @@ According to the World Health Organization report, one of the world's leading ca
 
 # Team members details
   
-<p>VAROLLA VASU – 9921004753</p>
-<p>PUVVADA SURYA SAI GOWTHAM 9822003003</p>
-<p>VANDRASI SNEHITHA 9921004989</p>
-<p>JINKA PENCHALAIAH 9822003004</p>
+<p>VAROLLA VASU – 9921004753@klu.ac.in</p>
+<p>PUVVADA SURYA SAI GOWTHAM 9822003003@klu.ac.in</p>
+<p>VANDRASI SNEHITHA 9921004989@klu.ac.in</p>
+<p>JINKA PENCHALAIAH 9822003004@klu.ac.in</p>
 
 # The problem it solves
 Our system works on the detection of cataracts and type of classification on the basis of severity namely; mild, normal, and severe, in an attempt to reduce errors of manual detection of cataracts in the early ages.
