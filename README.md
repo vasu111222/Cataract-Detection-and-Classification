@@ -3,7 +3,17 @@
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/48744487/119628159-77a2e480-be2a-11eb-8557-eb8186d6fe04.png">
 </p>
+# DESCRIPTION
+According to the World Health Organization report, one of the world's leading causes of blindness is reported to be due to cataracts. Even though cataract majorly affects the elderly population however now they can be seen among minors too. Among the various types, the prominently three types of cataract affect masses in high numbers which are nuclear, cortical, and post-subcapsular cataract. Conventional methods of cataract diagnoses include slit lamp image tests by doctors which do not prove to be effective in classifying cataracts in the early stages and can also have inaccuracies in identifying the correct type of cataract. Existing work to automate the process has worked on classification based upon binary detection only or has considered only one type of cataract among the mentioned types for further expanding the system. Further less amount of research has been done in the field of classification of cataract types. Our system works on the detection of cataracts and type of classification on the basis of severity namely; mild, normal, and severe, in an attempt to reduce errors of manual detection of cataracts in the early ages. Our proposed system has successfully classified images as cataract affected or as a normal eye with an accuracy of 96% using combined feature vectors from the SIFT-GLCM algorithm applied to classifier models of SVM, Random Forest, and Logistic Regression. The effect of using SIFT and GLCM separately has also been studied which leads to comparatively lesser accuracies in the model trained. For the type classification, our system has obtained 97.66% using deep convolutional neural network models, in particular SqueezeNet, MobileNet, and VGG16.
 
+  #Team members details
+  
+VAROLLA VASU – 9921004753
+PUVVADA SURYA SAI GOWTHAM 9822003003
+VANDRASI SNEHITHA 9921004989
+JINKA PENCHALAIAH 9822003004
+
+# The problem it solves
 Our system works on the detection of cataracts and type of classification on the basis of severity namely; mild, normal, and severe, in an attempt to reduce errors of manual detection of cataracts in the early ages.
 
 The phase 1 implementation has successfully classified images as cataract affected or as a normal eye with an accuracy of 96% using combined feature vectors from the SIFT-GLCM algorithm applied to classifier models of SVM, Random Forest, and Logistic Regression. The effect of using SIFT and GLCM separately has also been studied which leads to comparatively lesser accuracies in the model trained. 
@@ -13,6 +23,8 @@ The phase 2 implementation which deals with the type classification, has obtaine
 The results have been made accessible using web and Flask based user interface.
 
 The phase 1 implementation of the project which works on binary classification of cataract has been compiled into a conference paper and accepted in the “International Conference on Artificial Intelligence: Advances and Applications (ICAIAA 2021).”
+
+# use cases
 Algorithms used
 
 PHASE 1
@@ -29,7 +41,12 @@ PHASE 2
 2. VGG-16
 3. MOBILENET V2
 4. SQUEEZENET
+5. 
+# challenges you ran into
+1)Image Quality: Obtaining high-quality images of the eye can be challenging, especially if the patient has difficulty keeping their eye still during imaging. Poor image quality can make it harder to accurately detect cataracts.
 
-If you wish to learn before in-depth about GLCM texture feature extraction algorithm you refer the following written by [Kamaljit Kaur](https://github.com/kamaljitkaur98)
+2)Variability in Cataract Types: Cataracts can manifest in various forms, including different degrees of opacity and location within the eye. Detecting and characterizing these different types of cataracts accurately can be challenging.
 
-https://www.notion.so/Understanding-GLCM-7d2501afd206430b906e4a9851e86280
+3)Complexity of Eye Anatomy: The eye is a complex organ with various structures, and cataracts can affect different parts of the eye lens. Distinguishing cataracts from other ocular conditions or anomalies requires a deep understanding of eye anatomy.
+4)Generalization: Ensuring that the detection algorithm performs well on images from different populations, demographics, and imaging devices is crucial for its clinical utility. Achieving robustness and generalization across diverse datasets can be challenging.
+
