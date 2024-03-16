@@ -49,6 +49,12 @@ PHASE 2
 
 2)Variability in Cataract Types: Cataracts can manifest in various forms, including different degrees of opacity and location within the eye. Detecting and characterizing these different types of cataracts accurately can be challenging.
 
+
 3)Complexity of Eye Anatomy: The eye is a complex organ with various structures, and cataracts can affect different parts of the eye lens. Distinguishing cataracts from other ocular conditions or anomalies requires a deep understanding of eye anatomy.
 4)Generalization: Ensuring that the detection algorithm performs well on images from different populations, demographics, and imaging devices is crucial for its clinical utility. Achieving robustness and generalization across diverse datasets can be challenging.
+
+
+you can refer from my youtube video the link is given below 
+-https://youtu.be/xlipDGxOrQI?feature=shared
+
 
