@@ -60,6 +60,7 @@ you can refer from my youtube video the link is given below
 step-1 : first you need copy the total code
 step-2 : then open the terminal in that particular file location
 step-3 : then use need to install the following packages with the versions
+<li>
 absl-py                      2.1.0
 aioice                       0.9.0
 aiortc                       1.8.0
@@ -177,6 +178,7 @@ Werkzeug                     3.0.1
 wheel                        0.43.0
 wrapt                        1.14.1
 zipp                         3.18.0
+</li>
 
 the above packages are must showd be installed in your computer before you need to run the code.
 step-4  : then go to the app.py file
