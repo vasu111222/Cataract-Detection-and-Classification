@@ -180,13 +180,12 @@ you can refer from my youtube video the link is given below
 <p>zipp                         3.18.0</p>
 
 
-the above packages are must showd be installed in your computer befo![Screenshot 2024-03-16 150021](https://github.com/vasu111222/Cataract-Detection-and-Classification/assets/136715738/dd2f8125-903a-440d-ba97-59e2f5a4194f)
-re you need to run the code.
+the above packages are must showd be installed in your computer before you need to run the code.
 # step-4  : then go to the app.py file
 # step-5 : and then run the code you will get the interface
 
 ![Screenshot 2024-03-16 145926](https://github.com/vasu111222/Cataract-Detection-and-Classification/assets/136715738/93be02dd-5350-4a45-947e-b24a299fe5fb)
  then click the proceed button then next interface will open
  
-
+![Screenshot 2024-03-16 150021](https://github.com/vasu111222/Cataract-Detection-and-Classification/assets/136715738/dd2f8125-903a-440d-ba97-59e2f5a4194f)
 ![Uploading Screenshot 2024-03-16 150021.png…]()
