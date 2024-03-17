@@ -57,9 +57,9 @@ you can refer from my youtube video the link is given below
 -https://youtu.be/xlipDGxOrQI?feature=shared
 
 # Procedure to run the code 
-step-1 : first you need copy the total code
-step-2 : then open the terminal in that particular file location
-step-3 : then use need to install the following packages with the versions
+# step-1 : first you need copy the total code
+# step-2 : then open the terminal in that particular file location
+# step-3 : then use need to install the following packages with the versions
 
 <p>absl-py                      2.1.0</p>
 <p>aioice                       0.9.0</p>
@@ -181,8 +181,8 @@ step-3 : then use need to install the following packages with the versions
 
 
 the above packages are must showd be installed in your computer before you need to run the code.
-step-4  : then go to the app.py file
-step-5 : and then run the code you will get the interface
+# step-4  : then go to the app.py file
+# step-5 : and then run the code you will get the interface
 
 ![Screenshot 2024-03-16 145926](https://github.com/vasu111222/Cataract-Detection-and-Classification/assets/136715738/93be02dd-5350-4a45-947e-b24a299fe5fb)
 
