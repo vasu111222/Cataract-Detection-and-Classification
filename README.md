@@ -189,3 +189,17 @@ the above packages are must showd be installed in your computer before you need 
  
 ![Screenshot 2024-03-16 150021](https://github.com/vasu111222/Cataract-Detection-and-Classification/assets/136715738/dd2f8125-903a-440d-ba97-59e2f5a4194f)
 ![Uploading Screenshot 2024-03-16 150021.png…]()
+# step-6 : then we can choose the one image from folder or you can download and give to the model
+then the inter face will open like this
+
+![Screenshot 2024-03-16 150154](https://github.com/vasu111222/Cataract-Detection-and-Classification/assets/136715738/324e8300-c7f5-4541-8ff0-1c2a1facaaed)
+then select one image and click submit and 
+# step-7 : then you will get the interface like this 
+
+![Screenshot 2024-03-16 150213](https://github.com/vasu111222/Cataract-Detection-and-Classification/assets/136715738/166a047b-1931-4bae-a68c-fe0b20f566b3)
+
+click the show result button 
+# step-8: here you will get the output
+
+
+![Screenshot 2024-03-16 150320](https://github.com/vasu111222/Cataract-Detection-and-Classification/assets/136715738/51851c76-6c91-4ea3-b307-3c607012b3c6)
